@@ -1,4 +1,4 @@
-### Hi there 👋
+### ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/3956287?order=desc&sort=reputation?style=plastic)
 
 <!--
 **mustaphakd/mustaphakd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
