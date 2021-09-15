@@ -1,4 +1,4 @@
-### ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/3956287?order=desc&sort=reputation?style=plastic)
+### ![](https://img.shields.io/stackexchange/stackoverflow/r/3956287?order=desc&sort=reputation?style=plastic)
 
 Greetings :earth_africa: :globe_with_meridians:
 ##I'm a 👨🏿‍💻 Software Engineer working from 🏡
@@ -9,7 +9,7 @@ xamarin, WPF, WTL
 
 
 
-**Backend**:computer:
+**Backend** :computer: 
 ###C#  & dotnet stack
 
 **Test**🧪
