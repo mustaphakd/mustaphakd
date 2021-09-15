@@ -1,22 +1,29 @@
 ### ![](https://img.shields.io/stackexchange/stackoverflow/r/3956287?order=desc&sort=reputation?style=plastic)
 
 Greetings :earth_africa: :globe_with_meridians:
-##I'm a 👨🏿‍💻 Software Engineer working from 🏡
+
+## I'm a 👨🏿‍💻 Software Engineer working from 🏡
 
 **Frontend**
+
 html, css, scss, typescript, AngularJs, Angular2+,
 xamarin, WPF, WTL
 
 
 
-**Backend** :computer: 
-###C#  & dotnet stack
+**Backend** :computer:
+
+### C#  & dotnet stack
 
 **Test**🧪
+
 xUnit, Cypress, selenium, Jasmine ....
 
 **I enjoy**:computer:
+
 c/c++
+
+
 
 **🌱Currently learning**:mortar_board:
 
@@ -31,7 +38,7 @@ Will be revising hopefully soon :
 2. all things Electrical Engineering with emphasis on Antenna and signals ⚡
 3. Sound theories
 
-other past time interests
+other past time interests: 
 OpenCV, NLP, D3D, PyTorch
 
 📫Reach me @ mustapha.kone@worosoft.com :e-mail:
